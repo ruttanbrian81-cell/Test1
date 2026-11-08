@@ -1,0 +1,6 @@
+{
+  "name": "OmniPost AI - Cross-Platform Social Studio",
+  "description": "AI-powered cross-platform content studio generating tailored LinkedIn, Twitter/X, and Instagram posts with studio-quality imagery, hashtag intelligence, unified real-time analytics, optimal post scheduling, and PDF performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
